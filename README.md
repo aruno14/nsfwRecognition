@@ -9,3 +9,4 @@ Picture are classified in `content/good` and `content/bad` folders.
 
 ## Result
 * Precision: 0.76
+* TFLite size: 2.5Mo
